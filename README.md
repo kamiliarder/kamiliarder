@@ -52,8 +52,11 @@
 
 ###
 
-<div align="center">
-  [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=kamiliarder&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+<div align=center>
+<a href="https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats?username=kamiliarder&theme=github_dark" alt="LeetCode Stats" />
+</a>
+  <i>just starting out leetcode</i>
 </div>
 
 ###
