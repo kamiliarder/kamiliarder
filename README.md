@@ -48,14 +48,12 @@
 
 <br clear="both">
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kamiliarder)
-new to leetcode
+<img data-importer="snake" src="https://raw.githubusercontent.com/kamiliarder/kamiliarder/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlscHVkcmN5M21yazhyczRxMGMybmlhZGhmMjdlaG9mNGhpM3ZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2YnT74o9QuezBuYjL/giphy.gif"  />
+<div align="center">
+  [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=kamiliarder&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 </div>
 
 ###
