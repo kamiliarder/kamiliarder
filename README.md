@@ -48,7 +48,9 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/kamiliarder/kamiliarder/snake-output/snake.svg" alt="Snake animation" />
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kamiliarder)
+new to leetcode
 
 ###
 
